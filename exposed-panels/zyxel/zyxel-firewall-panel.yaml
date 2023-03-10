@@ -12,7 +12,7 @@ info:
   metadata:
     verified: true
     shodan-query: http.favicon.hash:-440644339
-  tags: panel,xyxel,firewall
+  tags: panel,zyxel,firewall
 
 requests:
   - method: GET
